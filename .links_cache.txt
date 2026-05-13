@@ -2,3 +2,8 @@ downloads/files/10.7z.001|1778709681
 downloads/files/10.7z.002|1778709681
 downloads/files/10.7z.003|1778709681
 downloads/files/10.7z.004|1778709681
+downloads/files/11.7z.001|1778709740
+downloads/files/11.7z.002|1778709740
+downloads/files/11.7z.003|1778709740
+downloads/files/11.7z.004|1778709740
+downloads/files/11.7z.005|1778709740
