@@ -5,6 +5,7 @@ downloads/files/BraveBrowserStandaloneSetup.7z.001|1778624143
 downloads/files/BraveBrowserStandaloneSetup.7z.002|1778624144
 downloads/files/GitHub_1.257.0_APKPure.xapk|1778623203
 downloads/files/IMDb: Movies & TV Shows_9.2.9.109290300_APKPure.apk|1778623062
+downloads/files/PotPlayerSetup64.exe|1778674379
 downloads/files/Samsung Health_6.32.0.001_APKPure.7z.001|1778623665
 downloads/files/Samsung Health_6.32.0.001_APKPure.7z.002|1778623665
 downloads/files/Samsung Health_6.32.0.001_APKPure.7z.003|1778623665

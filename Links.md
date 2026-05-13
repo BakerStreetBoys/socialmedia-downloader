@@ -2,6 +2,8 @@
 
 Click on any link below to start downloading directly.
 
+### 📅 2026-05-13 12:12 UTC
+- [PotPlayerSetup64.exe](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/PotPlayerSetup64.exe) (53.0 MB)
 ### 📅 2026-05-12 22:32 UTC
 - [tportable-x64.6.8.2.zip](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/tportable-x64.6.8.2.zip) (64.1 MB)
 - [tsetup-x64.6.8.2.exe](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/tsetup-x64.6.8.2.exe) (49.2 MB)
