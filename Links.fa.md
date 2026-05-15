@@ -4,6 +4,8 @@
 
 برای دانلود، روی هر لینک کلیک کنید.
 
+### 📅 2026-05-15 17:17 تهران
+- [Eljaan - Gole Sangam.mp3](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/soundcloud/Eljaan%20-%20Gole%20Sangam.mp3) (2.9 MB)
 ### 📅 2026-05-14 01:35 تهران
 - [13.7z.007](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/13.7z.007) (5.9 MB)
 - [13.7z.006](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/13.7z.006) (90.0 MB)
