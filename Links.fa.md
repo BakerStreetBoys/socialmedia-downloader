@@ -4,7 +4,16 @@
 
 برای دانلود، روی هر لینک کلیک کنید.
 
-### 📅 2026-05-15 17:17 تهران
+### 📅 2026-05-15 23:45 تهران
+- [All-in-One-Runtime-Installer-1.2.7z.009](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.009) (35.1 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.008](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.008) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.007](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.007) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.006](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.006) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.005](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.005) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.004](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.004) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.003](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.003) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.002](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.002) (90.0 MB)
+- [All-in-One-Runtime-Installer-1.2.7z.001](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/All-in-One-Runtime-Installer-1.2.7z.001) (90.0 MB)
 - [Eljaan - Gole Sangam.mp3](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/soundcloud/Eljaan%20-%20Gole%20Sangam.mp3) (2.9 MB)
 ### 📅 2026-05-14 01:35 تهران
 - [13.7z.007](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/13.7z.007) (5.9 MB)
