@@ -2,7 +2,8 @@
 
 Click on any link below to start downloading directly.
 
-### 📅 2026-05-20 00:31 UTC
+### 📅 2026-05-20 00:39 UTC
+- [cmfa-2.11.28-meta-universal-release.apk](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/cmfa-2.11.28-meta-universal-release.apk) (89.0 MB)
 - [Invizible_Pro__beta_ver.2.6.9.apk](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/Invizible_Pro__beta_ver.2.6.9.apk) (38.0 MB)
 - [Invizible_Pro__beta_ver.2.6.9_arm64.apk](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/Invizible_Pro__beta_ver.2.6.9_arm64.apk) (37.9 MB)
 - [Y29tLm5ldG1vZC5zeW5hXzYzMl81YTFkNTkwZg](https://github.com/BakerStreetBoys/socialmedia-downloader/raw/main/downloads/files/Y29tLm5ldG1vZC5zeW5hXzYzMl81YTFkNTkwZg) (31.3 MB)
