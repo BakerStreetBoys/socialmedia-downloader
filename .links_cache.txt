@@ -1,3 +1,4 @@
 downloads/files/MahsaNG_16_universal.7z.001|1779028464
 downloads/files/MahsaNG_16_universal.7z.002|1779028464
+downloads/files/Sofascore: Live Sports Scores_26.04.22_APKPure.xapk|1779236253
 downloads/files/thefeed-client-v0.18.10-windows-amd64.exe|1779057935
