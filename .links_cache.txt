@@ -1,12 +1,2 @@
-downloads/files/Invizible_Pro__beta_ver.2.6.9.apk|1779237109
-downloads/files/Invizible_Pro__beta_ver.2.6.9_arm64.apk|1779237102
-downloads/files/Level Devil - NOT A Troll Game_1.1.3_APKPure.7z.001|1779236615
-downloads/files/Level Devil - NOT A Troll Game_1.1.3_APKPure.7z.002|1779236615
-downloads/files/MahsaNG_16_universal.7z.001|1779028464
-downloads/files/MahsaNG_16_universal.7z.002|1779028464
-downloads/files/Offline Games - No Wifi Games_3.11.2_APKPure.7z.001|1779236379
-downloads/files/Offline Games - No Wifi Games_3.11.2_APKPure.7z.002|1779236379
-downloads/files/Sofascore: Live Sports Scores_26.04.22_APKPure.xapk|1779236253
-downloads/files/Y29tLm5ldG1vZC5zeW5hXzYzMl81YTFkNTkwZg|1779237094
-downloads/files/cmfa-2.11.28-meta-universal-release.apk|1779237540
-downloads/files/thefeed-client-v0.18.10-windows-amd64.exe|1779057935
+downloads/files/BraveBrowserStandaloneSetup.7z.001|1779394999
+downloads/files/BraveBrowserStandaloneSetup.7z.002|1779394999
