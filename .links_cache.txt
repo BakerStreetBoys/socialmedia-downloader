@@ -1,2 +1,2 @@
-downloads/files/BraveBrowserStandaloneSetup.7z.001|1779394999
-downloads/files/BraveBrowserStandaloneSetup.7z.002|1779394999
+downloads/files/setup-Happ.x64.7z.001|1779412631
+downloads/files/setup-Happ.x64.7z.002|1779412631
