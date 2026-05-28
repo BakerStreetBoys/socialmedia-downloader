@@ -1,4 +1,11 @@
-downloads/files/ShirOKhorshid-2026.05.24.apk|1779625016
-downloads/files/setup-Happ.x64.7z.001|1779412631
-downloads/files/setup-Happ.x64.7z.002|1779412631
-downloads/soundcloud/Majhool - Beduz.mp3|1779469209
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.001|1779997483
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.002|1779997483
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.003|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.004|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.005|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.006|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.007|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.008|1779997484
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.009|1779997485
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.010|1779997485
+downloads/files/610.47-notebook-win10-win11-64bit-international-nsd-dch-whql.7z.011|1779997485
